@@ -1,0 +1,11 @@
+# ViM stuff
+*.swo
+*.swp
+
+# Python stuff
+venv/
+*.pyc
+__pycache__/
+
+# Extraction directories
+tools/
